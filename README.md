@@ -9,13 +9,7 @@ Ce projet Java implémente un gestionnaire de contacts selon l'énoncé du chapi
 
 ## Structure :
 - Utilisation d'un tableau `Contact[]` pour stocker jusqu'à 500 contacts
-- Méthodes `addContact` et `searchContact` conformes au cours
+- Méthodes utilisées : `addContact` et `searchContact`
 
-## Exécution :
-```bash
-javac src/*.java
-java -cp src Main
-```
 
-## Auteur :
-Travail basé sur l'exercice "Gestionnaire de Contacts" du Chapitre 6.
+## Auteur : BAKAYOKO TOKPA MOHAMED
